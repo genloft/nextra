@@ -12,24 +12,24 @@ import './globals.css'
 
 export const metadata: Metadata = {
   description: 'Participa en el correcto desarrollo de la IA en Andalucia.',
-  metadataBase: new URL('https://nextra.site'),
+  metadataBase: new URL('https://regulacionia.es'),
   keywords: [
-    'Nextra',
-    'Next.js',
-    'React',
-    'JavaScript',
-    'MDX',
-    'Markdown',
-    'Static Site Generator'
+    'IA',
+    'Regulacion IA',
+    'IA Andalucia',
+    'RIA Andalucia',
+    'Inteligencia Artificial',
+    'Legislacion IA',
+    'Asociacion IA Andalucia'
   ],
   generator: 'Next.js',
   applicationName: 'Nextra',
   appleWebApp: {
-    title: 'Nextra'
+    title: 'RegulacionIA'
   },
   title: {
-    default: 'RegulacionIA - Asociacion ',
-    template: '%s | Nextra'
+    default: 'Por una IA ética, responsable y al servicio del bienestar global.',
+    template: '%s | RegulacionIA'
   },
   openGraph: {
     // https://github.com/vercel/next.js/discussions/50189#discussioncomment-10826632
@@ -52,10 +52,7 @@ export const metadata: Metadata = {
 
 const banner = (
   <Banner>
-    🎉 Nextra 4.0 has been released.{' '}
-    <Link href="https://the-guild.dev/blog/nextra-4" className="text-current!">
-      Read blogpost
-    </Link>
+    🎉 Preparándolo todo nos ponemos en marcha en 2026!!!. 🎉{' '}
   </Banner>
 )
 const navbar = (
@@ -82,11 +79,11 @@ const footer = (
       title="vercel.com homepage"
       href="https://vercel.com?utm_source=nextra.site"
     >
-      Powered by
+      Alojados en
       <VercelLogo height="20" />
     </a>
     <p className="mt-6 text-xs">
-      © {new Date().getFullYear()} The Nextra Project.
+      © {new Date().getFullYear()} RegulacionIA (RIA).
     </p>
   </Footer>
 )
