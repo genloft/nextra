@@ -11,7 +11,7 @@ import inkeep from './showcase/_logos/inkeep.png'
 import './globals.css'
 
 export const metadata: Metadata = {
-  description: 'Make beautiful websites with Next.js & MDX.',
+  description: 'Participa en el correcto desarrollo de la IA en Andalucia.',
   metadataBase: new URL('https://nextra.site'),
   keywords: [
     'Nextra',
