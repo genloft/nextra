@@ -28,14 +28,14 @@ export const metadata: Metadata = {
     title: 'Nextra'
   },
   title: {
-    default: 'Nextra – Next.js Static Site Generator',
+    default: 'RegulacionIA - Asociacion ',
     template: '%s | Nextra'
   },
   openGraph: {
     // https://github.com/vercel/next.js/discussions/50189#discussioncomment-10826632
     url: './',
-    siteName: 'Nextra',
-    locale: 'en_US',
+    siteName: 'RegulacionIA',
+    locale: 'es_ES',
     type: 'website'
   },
   other: {
